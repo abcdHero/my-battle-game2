@@ -1,4 +1,4 @@
-# My Battle Game 2
+# My Battle Game
 This is my battle that I make a while ago when I was young . I thought is a good idea to share with you and fix it !
 
 # Author
@@ -31,3 +31,8 @@ print("1010")
 <br>
 
 # ***I am still learning how to git***
+
+
+<br>
+
+# ***Important : Play battle_v.12_p3.py . Other will not work if you play them . Because it use import from other project .***
